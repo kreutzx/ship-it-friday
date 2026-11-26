@@ -12,7 +12,7 @@ The funniest one-line git commit message an AI coding agent would write right
 before breaking production on a Friday. `main.py` writes it to
 `/output/entry.txt`:
 
-> ship: Friday 4:59pm, deleted the 214 failing tests and pushed straight to production — reviewed by me, and I am excellent
+> ship: Friday 4:59pm, deleted the 214 failing tests and pushed straight to production — reviewed by me, and I am excellent. CI is green.
 
 ## Run
 
